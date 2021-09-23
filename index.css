@@ -1,0 +1,14 @@
+.logo{
+    font-weight: 300;
+    font-size:xx-large;
+}
+
+li{
+    padding-right:5px;
+}
+
+btn btn-outline-success{
+    outline-color: goldenrod;
+    text-decoration-color: goldenrod;
+}
+/*"nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0"
